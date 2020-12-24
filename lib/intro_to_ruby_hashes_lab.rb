@@ -2,7 +2,7 @@ def my_hash_creator(key, value)
   hash1 = {
     key: value
   }
-hash1[key]
+hash1
 end
 
 def read_from_hash(hash, key)
